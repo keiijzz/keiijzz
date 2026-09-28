@@ -2,7 +2,7 @@
 <h3 align="center">Network Engineer | Automation Enthusiast | Calon DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keiijzz&label=Profile%20views&color=0e75b6&style=flat" alt="Enggarukei" />
+  <img src="https://komarev.com/ghpvc/?username=keiijzz&label=Profile%20views&color=0e75b6&style=flat" alt="keiijzz" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 📝 Blog & Dokumentasi
 
 - 📰 Blog teknis: [netemplar.wordpress.com](https://netemplar.wordpress.com)
-- 📚 Catatan infra (Obsidian → GitHub Pages): [Notes Enggarukei](keiijzz.github.io/ern-sys.github.io/)
+- 📚 Catatan infra (Obsidian → GitHub Pages): [Notes keiijzz](#)
 
 ---
 
