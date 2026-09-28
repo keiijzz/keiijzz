@@ -71,7 +71,7 @@
   <a href="https://netemplar.wordpress.com" target="_blank">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:ienggar98@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
