@@ -2,7 +2,7 @@
 <h3 align="center">Network Engineer | Automation Enthusiast | Calon DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Enggarukei&label=Profile%20views&color=0e75b6&style=flat" alt="Enggarukei" />
+  <img src="https://komarev.com/ghpvc/?username=keiijzz&label=Profile%20views&color=0e75b6&style=flat" alt="Enggarukei" />
 </p>
 
 ---
@@ -48,19 +48,19 @@
 ### 📝 Blog & Dokumentasi
 
 - 📰 Blog teknis: [netemplar.wordpress.com](https://netemplar.wordpress.com)
-- 📚 Catatan infra (Obsidian → GitHub Pages): [Notes Enggarukei](#)
+- 📚 Catatan infra (Obsidian → GitHub Pages): [Notes Enggarukei](keiijzz.github.io/ern-sys.github.io/)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Enggarukei&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enggarukei&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keiijzz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiijzz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enggarukei&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keiijzz&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
