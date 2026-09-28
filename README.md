@@ -48,7 +48,7 @@
 ### 📝 Blog & Dokumentasi
 
 - 📰 Blog teknis: [netemplar.wordpress.com](https://netemplar.wordpress.com)
-- 📚 Catatan infra (Obsidian → GitHub Pages): [Notes keiijzz](#)
+- 📚 Catatan infra (Obsidian → GitHub Pages): [Notes keiijzz](https://keiijzz.github.io/ern-sys.github.io/)
 
 ---
 
