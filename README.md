@@ -1,16 +1,22 @@
-## Hi there 👋
+### Halo, gue Enggar Irawan 👋
 
-<!--
-**keiijzz/keiijzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Network Engineer & IT Helpdesk** di PT Kaldyta Mega Tech (KMTech), ditugasin sebagai vendor di **Universitas Nusa Putra**, Sukabumi.
 
-Here are some ideas to get you started:
+🌱 Lagi transisi karier ke arah **DevOps / Automation Engineering** — belajar Python, Docker, dan CI/CD di sela-sela kerjaan infra sehari-hari.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Yang biasa gue pegang:**
+- Networking: MikroTik (multi-WAN, VLAN), Cisco, FreeRADIUS
+- Infra: Proxmox, Unbound DNS, Zabbix, Grafana + Prometheus
+- Automation: Docker, Python, SSH scripting
+- Lab: GNS3, PNETLab, EVE-NG
+
+📜 **Sertifikasi:** MTCNA (MikroTik Certified Network Associate)
+
+✍️ Gue nulis catatan teknis & dokumentasi infra di:
+- Blog: [netemplar.wordpress.com](https://netemplar.wordpress.com)
+- Notes (Obsidian → GitHub Pages): [enggarukei](#)
+
+📫 Terbuka buat ngobrol soal network automation, homelab, atau DevOps journey!
+
+---
+![Profile views](https://komarev.com/ghpvc/?username=Enggarukei&color=blue)
