@@ -49,6 +49,7 @@
 
 - 📰 Blog teknis: [netemplar.wordpress.com](https://netemplar.wordpress.com)
 - 📚 Catatan infra (Obsidian → GitHub Pages): [Notes keiijzz](https://keiijzz.github.io/ern-sys.github.io/)
+- Projekan.ID Website Portofolio: (Projekan.ID)[Projekan.ID](https://keiijzz.github.io/projekan.id/)
 
 ---
 
